@@ -1,0 +1,46 @@
+
+
+  .Class1{
+    text-shadow: 3px 3px 1px rgb(102,205,170);
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+    text-align: center;
+    font-weight: bold;
+  
+  
+  }
+  
+  
+  .Class2{
+      color: red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 400px;
+      border: 3px solid blue(131, 19, 38);
+      border-radius: 5px;
+      border-style: groove;
+      border-color: rgb(0,191,255);
+      border-width: 7px;
+      background-image: url("./react.gif");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-position: center;
+      
+  }
+  
+  .Class3{
+    
+    font-family: "Arial, Helvetica, sans-serif";
+    font-size: 20px;
+   
+    color: black;
+   
+    text-align: center;
+  
+    text-align: center;
+    
+  
+  
+  }
+  
